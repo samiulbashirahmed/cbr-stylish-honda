@@ -1,0 +1,39 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.honda-bg-primary{
+background-color: 
+#264653;
+}
+ 
+
+.filtered {
+    
+    filter: grayscale(100%);
+ }
+ .font-color{
+     color:#E76F51 ;
+ }
+ .size{ 
+     width: 596px;
+     height: 596px;
+ }
+ .fa-star.filled{
+    color: #E77C40 ;
+ }
+ 
+ .fa-star.empty{
+     
+     color: #E77C40 ;
+     
+ }
+  
+  
+    
+  
+  
+  
+  
+  
+ 
+    
