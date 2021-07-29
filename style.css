@@ -5,7 +5,11 @@
 background-color: 
 #264653;
 }
- 
+.button-btn-primary{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+}
 
 .filtered {
     
@@ -26,6 +30,15 @@ background-color:
      
      color: #E77C40 ;
      
+ }
+ .line-width{
+     width: 138px;
+     color: #E76F51;
+     
+ }
+ .txt-decoration{
+     text-decoration: none;
+
  }
   
   
